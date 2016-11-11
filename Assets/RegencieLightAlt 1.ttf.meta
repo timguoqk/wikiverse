@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3bef7bdcd8ef2d94b8569bc4796330d3
+timeCreated: 1477227476
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Regencie Alt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 292a16a141899904d9c902c27982eb4e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

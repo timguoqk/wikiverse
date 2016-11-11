@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4ea8a0a888c2f674792f5c29e3df643c
+timeCreated: 1477227474
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Regencie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6772fb98f5d1cbc459ba4bfe3d6cc1e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
